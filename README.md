@@ -24,7 +24,7 @@ It aims to evaluate our proficiency in:
 
 - Ashley Muturi: https://github.com/AMutiria
 - Melita Letsaho: 
-- Barbra Nyakundi: 
+- Barbra Nyakundi: https://github.com/barbpic
 - Ishmael Hike: https://github.com/Ishlix5/
 - Gladwell Nduta: https://github.com/Gladw311
 
