@@ -1,0 +1,2 @@
+# AI-4-SE-Group-60
+Creating AI Solutions
