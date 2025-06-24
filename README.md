@@ -23,7 +23,7 @@ It aims to evaluate our proficiency in:
 ## 👥 Group Members
 
 - Ashley Muturi: https://github.com/AMutiria
-- Melita Letsaho: 
+- Melita Letsoalo: https://github.com/Thukxin
 - Barbra Nyakundi: https://github.com/barbpic
 - Ishmael Hike: https://github.com/Ishlix5/
 - Gladwell Nduta: https://github.com/Gladw311
@@ -32,7 +32,24 @@ It aims to evaluate our proficiency in:
 
 ## 📂 Repository Structure
 
-
+📁 AI-Toolkit-Assignment/
+├── 📁 theory/
+│ └── theoretical_questions.pdf
+├── 📁 practical/
+│ ├── iris_decision_tree.ipynb
+│ ├── mnist_cnn_tensorflow.ipynb
+│ ├── spacy_ner_sentiment.ipynb
+├── 📁 ethics_optimization/
+│ ├── ethical_reflection.md
+│ └── bug_fix_tensorflow.ipynb
+├── 📁 bonus_deployment/
+│ ├── streamlit_app/
+│ └── deployment_screenshot.png
+├── 📁 assets/
+│ ├── screenshots/
+│ └── model_outputs/
+├── 📄 README.md
+└── 📄 requirements.txt
 ---
 
 ## 🧠 Part 1: Theoretical Understanding
