@@ -22,7 +22,7 @@ It aims to evaluate our proficiency in:
 
 ## 👥 Group Members
 
-- Ashley Muturi: https://github.com/AMutiria
+- Ashley Mutiria: https://github.com/AMutiria
 - Melita Letsoalo: https://github.com/Thukxin
 - Barbra Nyakundi: https://github.com/barbpic
 - Ishmael Hike: https://github.com/Ishlix5/
